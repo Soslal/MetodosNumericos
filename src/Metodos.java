@@ -60,6 +60,9 @@ import javax.swing.JTextField;
 		public void jajsa() {
 			int a=0;
 		}
+		public void lool() {
+			int a=0;
+		}
 		public void menu(){
 			removeAll();
 			add(panelMenu);
