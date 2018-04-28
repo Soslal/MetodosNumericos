@@ -57,7 +57,9 @@ import javax.swing.JTextField;
 		public void jaja() {
 			int a=0;
 		}
-		
+		public void jajsa() {
+			int a=0;
+		}
 		public void menu(){
 			removeAll();
 			add(panelMenu);

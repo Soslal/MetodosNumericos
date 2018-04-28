@@ -1,0 +1,11 @@
+commit 35f9bb0b9df705ed675bf7f56d4361f19d6c036f
+Author: Omar Verdugo <omar_wow97@hotmail.com>
+Date:   Sat Apr 28 13:22:00 2018 -0600
+
+    Agregue la funcion jaja
+
+commit 2da21d0cbbb0259976d2b857dad265da4a9baf97
+Author: Omar Verdugo <omar_wow97@hotmail.com>
+Date:   Sat Apr 28 13:18:53 2018 -0600
+
+    Iniciamos
