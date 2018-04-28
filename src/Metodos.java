@@ -54,6 +54,9 @@ import javax.swing.JTextField;
 			menu();
 			
 		}
+		public void jaja() {
+			int a=0;
+		}
 		
 		public void menu(){
 			removeAll();
