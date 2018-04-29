@@ -54,7 +54,9 @@ import javax.swing.JTextField;
 			menu();
 			
 		}
-		
+		public void secante() {
+			System.out.println("Metodo de la secante");
+		}
 		public void menu(){
 			removeAll();
 			add(panelMenu);
