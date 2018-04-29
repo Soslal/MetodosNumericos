@@ -57,6 +57,9 @@ import javax.swing.JTextField;
 		public void secante() {
 			System.out.println("Metodo de la secante");
 		}
+		public void delete() {
+			System.out.println("Metodo para borrar");
+		}
 		public void menu(){
 			removeAll();
 			add(panelMenu);
